@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.form-input {
+  width: 14em;
+  height: 2em;
+}
+
+.searchBack {
+  width: 12em;
+  height: auto;
+  /* padding: 1em; */
+  margin: 0 auto;
+  text-align: left;
+  border: 1px solid #000;
+}
+
+.searchEntry {
+  padding: .5em 0;
+  padding-left: .2em;
+  width: 100%;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.searchEntry:hover {
+  background: #a1a1a1;
+}
